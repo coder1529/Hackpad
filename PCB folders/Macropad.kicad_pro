@@ -539,7 +539,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Gerber and Drill folder/",
       "specctra_dsn": "",
       "vrml": ""
     },
